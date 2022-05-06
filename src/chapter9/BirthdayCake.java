@@ -14,6 +14,9 @@ public class BirthdayCake extends Cake{
     public void Test1(){
         System.out.println("Hagelling means to dispute escpecially around money");
     }
+    public void Test2(){
+        System.out.println("Hagelling means to dispute escpecially around money");
+    }
 
 
 }
